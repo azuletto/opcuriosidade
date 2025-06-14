@@ -5,7 +5,7 @@ let toggle_button = document.querySelector('#theme-toggle');
 if (localStorage.getItem('theme') === 'dark-theme') {
     html.classList.add('dark-theme');
     
-    toggle_button.classList.add('active');
+     if(!window.location.pathname.includes('login-page')){toggle_button.classList.add('active');}
 } else if (localStorage.getItem('theme') === null || localStorage.getItem('theme') === "" || localStorage.getItem('theme') === 'light-theme') {
     html.classList.remove('dark-theme');
     if(!window.location.pathname.includes('login-page')){toggle_button.classList.remove('active');}

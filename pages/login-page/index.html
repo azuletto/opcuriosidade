@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <script src="javascript/login-validation.js"></script>
+    <link rel="icon" href="assets/image/login-ico.ico" type="image/x-icon">
+    <link rel="stylesheet" href="style/login-page.css">
+    <link rel="stylesheet" href="../../global/style/theme/color-palette.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login page</title>
+</head>
+
+<body>
+    <div class="login-container">
+        <div class="login-logo-area">
+            <div class="login-circle-logo">
+                <h1 class="login-title">OC</h1>
+            </div>
+            <div class="login-header">
+                <h1 class="login-subtitle">Operação Curiosidade</h1>
+            </div>
+        </div>
+        <div class="login-form">
+            <form class="form" action="" method="post">
+                <div class="input-group">
+                    <label class="input-label">
+                        <input autocomplete="email" class="input" id="email" type="email" placeholder="Seu email"
+                            name="email" required>
+                    </label>
+                    <p id="error-message"></p>
+                </div>
+                <div class="input-group">
+                    <label class="input-label">
+                        <input autocomplete="current-password" class="input" id="password" type="password"
+                            placeholder="Sua senha" name="password" required>
+                    </label>
+                </div>
+                <button id="login-button" class="login-button" type="button">Entrar</button>
+            </form>
+        </div>
+    </div>
+
+</body>
+
+<script src="../../global/src/javascripts/theme-toggler/theme-toggler.js"></script>
+<script type="module" src="javascript/login.js"></script>
+
+</html>

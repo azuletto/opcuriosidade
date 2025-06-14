@@ -11,6 +11,8 @@ if (localStorage.getItem('theme') === 'dark-theme') {
     toggle_button.classList.remove('active');
 }
 
+
+if(!window.location.pathname.includes('login-page')) {
 toggle_button.addEventListener('click', function() {
     if (html.classList.contains('dark-theme')) {
         html.classList.remove('dark-theme');
@@ -22,4 +24,4 @@ toggle_button.addEventListener('click', function() {
         toggle_button.classList.add('active');
     }
 });
-
+}

@@ -1,4 +1,4 @@
-import { regexEmail } from "/global/src/javascripts/email-regex.js";
+import { regexEmail } from "/opcuriosidade/global/src/javascripts/email-regex.js";
 
 let user = {
     name: "",

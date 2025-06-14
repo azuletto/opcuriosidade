@@ -72,10 +72,10 @@ function init_table() {
             const edit = true;
 
             t_edit.innerHTML = `<button id="edit-button" onclick="verifyEdit(${table_data[page_number][i]?.id},${edit})"> 
-            <img src="../../../pages/cadastro-page/assets/image/edit-icon.svg" alt="Edit User" width="10px" height="10px">
+            <img src="../../../opcuriosidade/pages/cadastro-page/assets/image/edit-icon.svg" alt="Edit User" width="10px" height="10px">
             </button>`
             t_delete.innerHTML = `<button id="delete-button" onclick="deleteUser(${table_data[page_number][i]?.id})">
-            <img style="color:red;" src="../../../pages/cadastro-page/assets/image/delete-icon.svg" alt="Delete user" width="10px" height="10px">
+            <img style="color:red;" src="../../../opcuriosidade/pages/cadastro-page/assets/image/delete-icon.svg" alt="Delete user" width="10px" height="10px">
             </button>`
 
             tr.appendChild(t_edit)

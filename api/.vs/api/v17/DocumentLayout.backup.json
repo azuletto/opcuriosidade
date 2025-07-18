@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\application\\input\\handlers\\admincontext\\insertadminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|solutionrelative:application\\input\\handlers\\admincontext\\insertadminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D0F5AE-B555-4497-A236-992EB1A60552}|OpCuriosidade\\OpCuriosidade.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\opcuriosidade\\entities\\personnelcontext\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D0F5AE-B555-4497-A236-992EB1A60552}|OpCuriosidade\\OpCuriosidade.csproj|solutionrelative:opcuriosidade\\entities\\personnelcontext\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D0F5AE-B555-4497-A236-992EB1A60552}|OpCuriosidade\\OpCuriosidade.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\opcuriosidade\\validations\\contracts\\contractvalidations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D0F5AE-B555-4497-A236-992EB1A60552}|OpCuriosidade\\OpCuriosidade.csproj|solutionrelative:opcuriosidade\\validations\\contracts\\contractvalidations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D0F5AE-B555-4497-A236-992EB1A60552}|OpCuriosidade\\OpCuriosidade.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\opcuriosidade\\validations\\addresvalidations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D0F5AE-B555-4497-A236-992EB1A60552}|OpCuriosidade\\OpCuriosidade.csproj|solutionrelative:opcuriosidade\\validations\\addresvalidations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContractValidations.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\OpCuriosidade\\Validations\\Contracts\\ContractValidations.cs",
+              "RelativeDocumentMoniker": "OpCuriosidade\\Validations\\Contracts\\ContractValidations.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\OpCuriosidade\\Validations\\Contracts\\ContractValidations.cs",
+              "RelativeToolTip": "OpCuriosidade\\Validations\\Contracts\\ContractValidations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T16:46:32.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\OpCuriosidade\\Entities\\PersonnelContext\\Admin.cs",
+              "RelativeDocumentMoniker": "OpCuriosidade\\Entities\\PersonnelContext\\Admin.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\OpCuriosidade\\Entities\\PersonnelContext\\Admin.cs",
+              "RelativeToolTip": "OpCuriosidade\\Entities\\PersonnelContext\\Admin.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwB0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T16:38:10.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddresValidations.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\OpCuriosidade\\Validations\\AddresValidations.cs",
+              "RelativeDocumentMoniker": "OpCuriosidade\\Validations\\AddresValidations.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\OpCuriosidade\\Validations\\AddresValidations.cs",
+              "RelativeToolTip": "OpCuriosidade\\Validations\\AddresValidations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T16:26:04.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InsertAdminHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Input\\Handlers\\AdminContext\\InsertAdminHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Input\\Handlers\\AdminContext\\InsertAdminHandler.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Input\\Handlers\\AdminContext\\InsertAdminHandler.cs",
+              "RelativeToolTip": "Application\\Input\\Handlers\\AdminContext\\InsertAdminHandler.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T16:22:15.215Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

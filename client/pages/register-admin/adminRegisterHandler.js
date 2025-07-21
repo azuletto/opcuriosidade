@@ -45,7 +45,9 @@ loginButton.addEventListener("click", async (event) => {
       }
       if (
         (errorEmail = errorData.notifications.find(
-          (notification) => notification.property === "email"
+          (notification) =>
+            notification.property === "email" ||
+            notification.property === "alreadyDb"
         ))
       ) {
         errorsParagraphs[1].textContent = errorEmail.message;
@@ -56,8 +58,10 @@ loginButton.addEventListener("click", async (event) => {
         ))
       ) {
         errorsParagraphs[2].textContent = errorPassword.message;
-        errorsParagraphs[3].textContent = errorPassword.message ;
+        errorsParagraphs[3].textContent = errorPassword.message;
       }
+    } else if (response.ok) {
+      window.location.href = "../login/index.html?success=registered";
     }
   } catch (error) {
     console.error("Error during registration:", error);

@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\application\\input\\handlers\\admincontext\\insertadminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|solutionrelative:application\\input\\handlers\\admincontext\\insertadminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\application\\mapper\\adminmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|solutionrelative:application\\mapper\\adminmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65D0F5AE-B555-4497-A236-992EB1A60552}|OpCuriosidade\\OpCuriosidade.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\opcuriosidade\\entities\\personnelcontext\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65D0F5AE-B555-4497-A236-992EB1A60552}|OpCuriosidade\\OpCuriosidade.csproj|solutionrelative:opcuriosidade\\entities\\personnelcontext\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\application\\repositories\\admincontext\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|solutionrelative:application\\repositories\\admincontext\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65D0F5AE-B555-4497-A236-992EB1A60552}|OpCuriosidade\\OpCuriosidade.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\opcuriosidade\\validations\\contracts\\contractvalidations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65D0F5AE-B555-4497-A236-992EB1A60552}|OpCuriosidade\\OpCuriosidade.csproj|solutionrelative:opcuriosidade\\validations\\contracts\\contractvalidations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\application\\input\\handlers\\admincontext\\loginadminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|solutionrelative:application\\input\\handlers\\admincontext\\loginadminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65D0F5AE-B555-4497-A236-992EB1A60552}|OpCuriosidade\\OpCuriosidade.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\opcuriosidade\\validations\\addresvalidations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65D0F5AE-B555-4497-A236-992EB1A60552}|OpCuriosidade\\OpCuriosidade.csproj|solutionrelative:opcuriosidade\\validations\\addresvalidations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|solutionrelative:application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\application\\controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|solutionrelative:application\\controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,54 +38,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ContractValidations.cs",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\OpCuriosidade\\Validations\\Contracts\\ContractValidations.cs",
-              "RelativeDocumentMoniker": "OpCuriosidade\\Validations\\Contracts\\ContractValidations.cs",
-              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\OpCuriosidade\\Validations\\Contracts\\ContractValidations.cs",
-              "RelativeToolTip": "OpCuriosidade\\Validations\\Contracts\\ContractValidations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AdminMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Mapper\\AdminMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Mapper\\AdminMapper.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Mapper\\AdminMapper.cs",
+              "RelativeToolTip": "Application\\Mapper\\AdminMapper.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T16:46:32.253Z",
+              "WhenOpened": "2025-07-21T17:58:11.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\OpCuriosidade\\Entities\\PersonnelContext\\Admin.cs",
-              "RelativeDocumentMoniker": "OpCuriosidade\\Entities\\PersonnelContext\\Admin.cs",
-              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\OpCuriosidade\\Entities\\PersonnelContext\\Admin.cs",
-              "RelativeToolTip": "OpCuriosidade\\Entities\\PersonnelContext\\Admin.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAqwB0AAAAzAAAAAAAAAA==",
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Repositories\\AdminContext\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Repositories\\AdminContext\\AdminRepository.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Repositories\\AdminContext\\AdminRepository.cs",
+              "RelativeToolTip": "Application\\Repositories\\AdminContext\\AdminRepository.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswFEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T16:38:10.858Z",
+              "WhenOpened": "2025-07-21T17:51:46.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AddresValidations.cs",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\OpCuriosidade\\Validations\\AddresValidations.cs",
-              "RelativeDocumentMoniker": "OpCuriosidade\\Validations\\AddresValidations.cs",
-              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\OpCuriosidade\\Validations\\AddresValidations.cs",
-              "RelativeToolTip": "OpCuriosidade\\Validations\\AddresValidations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Program.cs",
+              "RelativeDocumentMoniker": "Application\\Program.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Program.cs",
+              "RelativeToolTip": "Application\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T16:26:04.739Z",
+              "WhenOpened": "2025-07-21T17:47:18.034Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "InsertAdminHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Input\\Handlers\\AdminContext\\InsertAdminHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Input\\Handlers\\AdminContext\\InsertAdminHandler.cs",
-              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Input\\Handlers\\AdminContext\\InsertAdminHandler.cs",
-              "RelativeToolTip": "Application\\Input\\Handlers\\AdminContext\\InsertAdminHandler.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCgAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Controllers\\Controller.cs",
+              "RelativeDocumentMoniker": "Application\\Controllers\\Controller.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Controllers\\Controller.cs",
+              "RelativeToolTip": "Application\\Controllers\\Controller.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwFUAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T16:22:15.215Z",
+              "WhenOpened": "2025-07-21T17:42:38.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginAdminHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Input\\Handlers\\AdminContext\\LoginAdminHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Input\\Handlers\\AdminContext\\LoginAdminHandler.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Input\\Handlers\\AdminContext\\LoginAdminHandler.cs",
+              "RelativeToolTip": "Application\\Input\\Handlers\\AdminContext\\LoginAdminHandler.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T17:42:31.465Z",
               "EditorCaption": ""
             }
           ]

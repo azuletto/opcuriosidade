@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpCuriosidade")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0152324aee23780904957071304d8b5119968fc3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+957024e4e5c378b98b0b4e363ea849dde468354a")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpCuriosidade")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpCuriosidade")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

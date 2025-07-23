@@ -3,52 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\application\\input\\handlers\\admincontext\\loginadminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|solutionrelative:application\\input\\handlers\\admincontext\\loginadminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\application\\input\\handlers\\personcontext\\getallpersonshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|solutionrelative:application\\input\\handlers\\personcontext\\getallpersonshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\application\\repositories\\admincontext\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|solutionrelative:application\\repositories\\admincontext\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\application\\output\\dto\\persontableviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|solutionrelative:application\\output\\dto\\persontableviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\application\\mapper\\persontableviewmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|solutionrelative:application\\mapper\\persontableviewmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\application\\repositories\\personcontext\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|solutionrelative:application\\repositories\\personcontext\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\application\\mapper\\adminmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|solutionrelative:application\\mapper\\adminmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\application\\input\\handlers\\admincontext\\getadminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|solutionrelative:application\\input\\handlers\\admincontext\\getadminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\application\\input\\handlers\\admincontext\\deleteadminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|solutionrelative:application\\input\\handlers\\admincontext\\deleteadminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\application\\output\\request\\tablerequests\\adminrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|solutionrelative:application\\output\\request\\tablerequests\\adminrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\application\\repositories\\personcontext\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|solutionrelative:application\\repositories\\personcontext\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\application\\input\\commands\\personcontext\\getallpersonscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|solutionrelative:application\\input\\commands\\personcontext\\getallpersonscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|solutionrelative:application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\application\\repositories\\admincontext\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|solutionrelative:application\\repositories\\admincontext\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\application\\controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|solutionrelative:application\\controllers\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\application\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|solutionrelative:application\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\application\\auth\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|solutionrelative:application\\auth\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|c:\\users\\andr\u00E9malsemirodasilv\\desktop\\projeto\\andre_m_da_s_de_oliveira\\api\\application\\auth\\interfaces\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{706EF80B-DA3F-46B2-B874-36D6223285F1}|Application\\Application.csproj|solutionrelative:application\\auth\\interfaces\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,158 +62,145 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AdminMapper.cs",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Mapper\\AdminMapper.cs",
-              "RelativeDocumentMoniker": "Application\\Mapper\\AdminMapper.cs",
-              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Mapper\\AdminMapper.cs",
-              "RelativeToolTip": "Application\\Mapper\\AdminMapper.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA5wA0AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T16:29:48.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GetAdminHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Input\\Handlers\\AdminContext\\GetAdminHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Input\\Handlers\\AdminContext\\GetAdminHandler.cs",
-              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Input\\Handlers\\AdminContext\\GetAdminHandler.cs",
-              "RelativeToolTip": "Application\\Input\\Handlers\\AdminContext\\GetAdminHandler.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T16:26:12.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IAdminRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Repositories\\AdminContext\\IAdminRepository.cs",
-              "RelativeDocumentMoniker": "Application\\Repositories\\AdminContext\\IAdminRepository.cs",
-              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Repositories\\AdminContext\\IAdminRepository.cs",
-              "RelativeToolTip": "Application\\Repositories\\AdminContext\\IAdminRepository.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T16:22:57.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AdminRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Repositories\\AdminContext\\AdminRepository.cs",
-              "RelativeDocumentMoniker": "Application\\Repositories\\AdminContext\\AdminRepository.cs",
-              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Repositories\\AdminContext\\AdminRepository.cs",
-              "RelativeToolTip": "Application\\Repositories\\AdminContext\\AdminRepository.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAApwCYAAAAJAAAAAAAAAA==",
+              "Title": "PersonTableViewDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Output\\DTO\\PersonTableViewDTO.cs",
+              "RelativeDocumentMoniker": "Application\\Output\\DTO\\PersonTableViewDTO.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Output\\DTO\\PersonTableViewDTO.cs",
+              "RelativeToolTip": "Application\\Output\\DTO\\PersonTableViewDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T14:32:24.262Z",
+              "WhenOpened": "2025-07-23T17:35:09.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoginAdminHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Input\\Handlers\\AdminContext\\LoginAdminHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Input\\Handlers\\AdminContext\\LoginAdminHandler.cs",
-              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Input\\Handlers\\AdminContext\\LoginAdminHandler.cs",
-              "RelativeToolTip": "Application\\Input\\Handlers\\AdminContext\\LoginAdminHandler.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAYwDoAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "PersonTableViewMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Mapper\\PersonTableViewMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Mapper\\PersonTableViewMapper.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Mapper\\PersonTableViewMapper.cs",
+              "RelativeToolTip": "Application\\Mapper\\PersonTableViewMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T11:48:37.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Program.cs",
-              "RelativeDocumentMoniker": "Application\\Program.cs",
-              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Program.cs",
-              "RelativeToolTip": "Application\\Program.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAowEIAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T11:37:14.523Z",
+              "WhenOpened": "2025-07-23T17:20:53.273Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Application",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Application.csproj",
-              "RelativeDocumentMoniker": "Application\\Application.csproj",
-              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Application.csproj",
-              "RelativeToolTip": "Application\\Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-22T11:17:57.462Z",
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Repositories\\PersonContext\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Repositories\\PersonContext\\PersonRepository.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Repositories\\PersonContext\\PersonRepository.cs",
+              "RelativeToolTip": "Application\\Repositories\\PersonContext\\PersonRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T16:40:48.134Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DeleteAdminHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Input\\Handlers\\AdminContext\\DeleteAdminHandler.cs",
-              "RelativeDocumentMoniker": "Application\\Input\\Handlers\\AdminContext\\DeleteAdminHandler.cs",
-              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Input\\Handlers\\AdminContext\\DeleteAdminHandler.cs",
-              "RelativeToolTip": "Application\\Input\\Handlers\\AdminContext\\DeleteAdminHandler.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAcwDEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "AdminRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Output\\Request\\TableRequests\\AdminRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Output\\Request\\TableRequests\\AdminRequest.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Output\\Request\\TableRequests\\AdminRequest.cs",
+              "RelativeToolTip": "Application\\Output\\Request\\TableRequests\\AdminRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T17:19:49.604Z",
+              "WhenOpened": "2025-07-23T14:47:47.457Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Controller.cs",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Controllers\\Controller.cs",
-              "RelativeDocumentMoniker": "Application\\Controllers\\Controller.cs",
-              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Controllers\\Controller.cs",
-              "RelativeToolTip": "Application\\Controllers\\Controller.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAA7wFIAAAA3AAAAAAAAAA==",
+              "Title": "GetAllPersonsCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Input\\Commands\\PersonContext\\GetAllPersonsCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Input\\Commands\\PersonContext\\GetAllPersonsCommand.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Input\\Commands\\PersonContext\\GetAllPersonsCommand.cs",
+              "RelativeToolTip": "Application\\Input\\Commands\\PersonContext\\GetAllPersonsCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T12:31:43.007Z",
+              "WhenOpened": "2025-07-23T14:27:12.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IAuthServices.cs",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Auth\\Interfaces\\IAuthServices.cs",
-              "RelativeDocumentMoniker": "Application\\Auth\\Interfaces\\IAuthServices.cs",
-              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Auth\\Interfaces\\IAuthServices.cs",
-              "RelativeToolTip": "Application\\Auth\\Interfaces\\IAuthServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "GetAllPersonsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Input\\Handlers\\PersonContext\\GetAllPersonsHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Input\\Handlers\\PersonContext\\GetAllPersonsHandler.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Input\\Handlers\\PersonContext\\GetAllPersonsHandler.cs",
+              "RelativeToolTip": "Application\\Input\\Handlers\\PersonContext\\GetAllPersonsHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA0wCMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T11:46:52.338Z",
+              "WhenOpened": "2025-07-23T14:26:08.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Mapper\\AdminMapper.cs",
+              "RelativeDocumentMoniker": "Application\\Mapper\\AdminMapper.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Mapper\\AdminMapper.cs",
+              "RelativeToolTip": "Application\\Mapper\\AdminMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:20:23.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAdminHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Input\\Handlers\\AdminContext\\GetAdminHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Input\\Handlers\\AdminContext\\GetAdminHandler.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Input\\Handlers\\AdminContext\\GetAdminHandler.cs",
+              "RelativeToolTip": "Application\\Input\\Handlers\\AdminContext\\GetAdminHandler.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswEkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T16:17:46.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Repositories\\PersonContext\\IPersonRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Repositories\\PersonContext\\IPersonRepository.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Repositories\\PersonContext\\IPersonRepository.cs",
+              "RelativeToolTip": "Application\\Repositories\\PersonContext\\IPersonRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T16:05:59.836Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Auth\\AuthService.cs",
-              "RelativeDocumentMoniker": "Application\\Auth\\AuthService.cs",
-              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Auth\\AuthService.cs",
-              "RelativeToolTip": "Application\\Auth\\AuthService.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowBMAAAA4AAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Program.cs",
+              "RelativeDocumentMoniker": "Application\\Program.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Program.cs",
+              "RelativeToolTip": "Application\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T11:24:53.633Z",
+              "WhenOpened": "2025-07-23T16:32:58.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Config.cs",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Auth\\Config.cs",
-              "RelativeDocumentMoniker": "Application\\Auth\\Config.cs",
-              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Auth\\Config.cs",
-              "RelativeToolTip": "Application\\Auth\\Config.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABGAAAAAAAAAA==",
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Controllers\\Controller.cs",
+              "RelativeDocumentMoniker": "Application\\Controllers\\Controller.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9MalsemirodaSilv\\Desktop\\projeto\\Andre_M_da_S_de_Oliveira\\api\\Application\\Controllers\\Controller.cs",
+              "RelativeToolTip": "Application\\Controllers\\Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T11:22:09.235Z",
+              "WhenOpened": "2025-07-23T16:23:55.588Z",
               "EditorCaption": ""
             }
           ]

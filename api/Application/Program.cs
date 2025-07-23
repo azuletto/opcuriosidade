@@ -1,6 +1,8 @@
 using Application.Input.Commands.AdminContext;
 using Application.Input.Handlers.AdminContext;
+using Application.Input.Handlers.PersonContext;
 using Application.Repositories.AdminContext;
+using Application.Repositories.PersonContext;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
@@ -60,14 +62,39 @@ builder.Services.AddSwaggerGen(c =>
             }
         }
     });
+    c.MapType<LoginAdminCommand>(() => new OpenApiSchema
+    {
+        Description = "Comando para logar um administrador",
+        Required = new HashSet<string> { "Email", "Password" }, // Campos obrigatórios
+        Properties = new Dictionary<string, OpenApiSchema>
+        {
+            ["Email"] = new()
+            {
+                Type = "string",
+                Format = "email",
+                Description = "E-mail válido",
+                Example = new OpenApiString("admin@exemplo.com")
+            },
+            ["Password"] = new()
+            {
+                Type = "string",
+                Format = "password",
+                Description = "Senha com pelo menos 8 caracteres",
+                Example = new OpenApiString("Senha@123")
+            }
+        }
+    });
 });
 builder.Services.AddSingleton(new List<Admin>());
+builder.Services.AddSingleton(new List<Person>());
 builder.Services.AddScoped<LoginAdminHandler>();
 builder.Services.AddScoped<InsertAdminHandler>();
 builder.Services.AddScoped<DeleteAdminHandler>();
 builder.Services.AddScoped<UpdateAdminHandler>();
 builder.Services.AddScoped<GetAdminHandler>();
 builder.Services.AddScoped<IAdminRepository, AdminRepository>();
+builder.Services.AddScoped<IPersonRepository, PersonRepository>();
+builder.Services.AddScoped<GetAllPersonsHandler>();
 
 // Configuração explícita das portas
 builder.WebHost.UseUrls("http://localhost:5000", "https://localhost:5001");

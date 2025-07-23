@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Application.Repositories.PersonContext
 {
-    internal interface IPersonRepository
+    public interface IPersonRepository
     {
         void InsertPerson(PersonDTO person);
         Task<PersonDTO> GetPersonByIdAsync(Guid id);
